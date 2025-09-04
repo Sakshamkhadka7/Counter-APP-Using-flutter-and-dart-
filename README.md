@@ -14,15 +14,18 @@ the development for each device like iphone, android, windows and macos
 
 # What I learn during development of this app
 
- :smile: How to implement the dart logic using class , object and four pillars of OOPs
+ :smile: ->How to implement the dart logic using class , object and four pillars of OOPs
  
- :smile: Acquired knowledge of framework how widget are combine to make good UI 
+ :smile:  ->Acquired knowledge of framework how widget are combine to make good UI 
   
-  :smile: To navigate from one page to another page using navigator widget of flutter
+  :smile: ->To navigate from one page to another page using navigator widget of flutter
   
-  :smile: Get the comprehend knowledege about overloading and overriding 
+  :smile: ->Get the comprehend knowledege about overloading and overriding 
   
-  :smile: Understand how to make App bar and upload internet image
+  :smile: ->Understand how to make App bar and upload internet image
+
+
+  ![image alt]()
   
 
 
